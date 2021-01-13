@@ -13,7 +13,7 @@ Hi, nice to meet you. I'm a physics student at [TU Wien](https://www.tuwien.at/)
 </p>
 </details>
 
-You can reach me via mail at protonmail.com as nicoeinsidler. Hope to hear from you in English, German and hopefully soon Mandarin.
+You can reach me via mail at _protonmail.com_ as _nicoeinsidler_. Hope to hear from you in English, German and hopefully soon Mandarin.
 
 Stay safe and curious!
 
