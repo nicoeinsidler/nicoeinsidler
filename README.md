@@ -1,6 +1,6 @@
 ## Nico Einsidler
 
-<details><summary>👋 <b>Hi, nice to meet you.</b> (click to view more)</summary><details><summary>I'm a physics student at [TU Wien](https://www.tuwien.at/) and **my heart beats for physics, design, music and programming**. </summary><details><summary>In the past I co-founded several startupsand kept myself above the water as a freelance web designer in the golden WordPress-Theme-Web-2.0-everything-is-free-newand-can-be-connected era. </summary>Since start of 2020 I've been creating for [IBM](https://www.ibm.com/at-de) now.
+<details><summary>👋 <b>Hi, nice to meet you.</b> (click to view more)</summary><details><summary>I'm a physics student at <a href="https://www.tuwien.at/">TU Wien</a> and <b>my heart beats for physics, design, music and programming</b>. </summary><details><summary>In the past I co-founded several startupsand kept myself above the water as a freelance web designer in the golden WordPress-Theme-Web-2.0-everything-is-free-newand-can-be-connected era. </summary>Since start of 2020 I've been creating for <a href="https://www.ibm.com/at-de">IBM</a> now.
 <details><summary>🚀 previous startups</summary>
 <p>
 <ul>
